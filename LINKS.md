@@ -1,3 +1,6 @@
+REVIEW each one ... *plenty to annotate here*
+
+
 - 2019-12-06: [My learnings on Linux BPF container performance engineering](https://medium.com/@aimvec/my-learnings-on-linux-bpf-container-performance-engineering-3eb424b73d56)
 - 2019-11-21: [Debugging network stalls on Kubernetes](https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes)
 - 2019-11-12: [bcc-tools brings dynamic kernel tracing to Red Hat Enterprise Linux 8.1](https://www.redhat.com/en/blog/bcc-tools-brings-dynamic-kernel-tracing-red-hat-enterprise-linux-81)
